@@ -6,7 +6,6 @@
 | :--- | :--- |
 | **Application** | LudIQ |
 | **Last Updated** | 13 June 2026 |
-| **Version** | 1.0 |
 
 ---
 
@@ -31,9 +30,8 @@ The publisher of the LudIQ application acts as the data controller within the me
 > * **Status:** Individual Developer
 > * **Registration Number:** Not applicable
 > * **Contact Address:** Ludiq.support@gmail.com
-> * **Data Protection Contact:** savi.godineau@gmail.com
 
-For any questions regarding this policy or your data, you can reach out via the email addresses above.
+For any questions regarding this policy or your data, you can reach out via the email address above.
 
 ---
 
@@ -128,7 +126,7 @@ Because LudIQ is built on a decentralized, local-first architecture, **you can e
 * **Rectification:** You can manually edit games, match entries, scores, and player profiles directly in the settings.
 * **Erasure:** You can delete individual entries, reset the Explore cache, or completely uninstall the app to instantly purge all records.
 
-If you wish to withdraw system permissions, you can do so at any time via your phone's Settings app. To exercise any right requiring our direct intervention, contact us at **savi.godineau@gmail.com**. We will respond within the statutory one-month timeframe.
+If you wish to withdraw system permissions, you can do so at any time via your phone's Settings app. To exercise any right requiring our direct intervention, contact us at **Ludiq.support@gmail.com**. We will respond within the statutory one-month timeframe.
 
 You also have the right to lodge a complaint with a supervisory authority. In France, this is the **CNIL** (Commission Nationale de l'Informatique et des Libertés) at [www.cnil.fr](https://www.cnil.fr).
 
