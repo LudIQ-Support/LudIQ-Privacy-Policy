@@ -1,29 +1,29 @@
-# Politique de Confidentialité
+# Politique de Confidentialité — LudIQ
 
 [🇬🇧 English Version](README.md)
 
 | Métadonnées | Valeur |
 | :--- | :--- |
 | **Application** | LudIQ |
-| **Dernière mise à jour** | 13 juin 2026 |
+| **Dernière mise à jour** | 20 juin 2026 |
 
 ---
 
 ## 1. Présentation
 
-**LudIQ** est une application mobile gratuite destinée aux passionnés de jeux de société. Elle a été intégralement conçue pour respecter la vie privée de ses utilisateurs et fonctionne principalement hors ligne.
+**LudIQ** est une application mobile gratuite destinée aux joueurs de jeux de société. Elle a été conçue pour respecter la vie privée de ses utilisateurs et fonctionne principalement hors ligne.
 
-* **Stockage local exclusif :** Vos données personnelles restent exclusivement sur votre appareil. Votre collection de jeux, l'historique de vos parties, vos scores, vos profils de joueurs (noms et photos) ainsi que vos préférences sont enregistrés localement dans l'espace sécurisé de votre téléphone. Aucun serveur tiers n'en conserve de copie.
-* **Sans compte ni publicité :** L'utilisation de l'application ne nécessite aucune création de compte ni adresse e-mail. L'application est totalement exempte de publicité, ne contient aucun traceur publicitaire et ne procède à aucune revente de données.
-* **Flux réseau minimaux :** Les seules informations qui quittent votre appareil sont les requêtes techniques adressées à l'API de BoardGameGeek pour afficher les fiches de jeux, ainsi que le texte des descriptions de jeux transmis à un service de traduction lorsque vous utilisez l'application en français. Aucune de ces requêtes ne permet de vous identifier personnellement.
+* **Stockage local exclusif :** Vos données personnelles restent sur votre appareil. Votre collection de jeux, vos parties et vos scores, vos profils de joueurs (noms et photos) ainsi que vos préférences sont enregistrés localement, dans la mémoire de votre téléphone. Aucun serveur ne conserve de copie de ces informations.
+* **Sans compte ni publicité :** L'utilisation de l'application ne nécessite ni création de compte, ni adresse e-mail. L'application ne contient aucune publicité, aucun traceur publicitaire et ne procède à aucune revente de données.
+* **Flux réseau minimaux :** Les informations qui quittent votre appareil sont les requêtes techniques adressées à BoardGameGeek pour afficher les fiches de jeux, le téléchargement des images de jeux depuis le réseau de diffusion d'images de BoardGameGeek, et le texte des descriptions de jeux transmis à un service de traduction lorsque vous utilisez l'application en français. 
 
-La présente politique détaille l'ensemble de ces traitements avec une transparence totale.
+🔒 **Nuance importante (Contenu vs Métadonnées) :** Le contenu de ces requêtes ne comporte aucune des données que vous avez saisies dans l'application : ni votre nom, ni vos profils de joueurs, ni vos statistiques. Cependant, comme toute connexion à Internet, ces requêtes transmettent obligatoirement des données techniques de connexion, telles que votre **adresse IP**, qui peuvent constituer une donnée personnelle au sens du RGPD. Elles sont utilisées uniquement pour acheminer la requête par les infrastructures intermédiaires et ne servent ni à vous identifier personnellement ni à établir un profil.
 
 ---
 
 ## 2. Responsable du traitement
 
-L'éditeur de l'application LudIQ est responsable du traitement de vos données au sens du Règlement Général sur la Protection des Données (RGPD).
+L'éditeur de l'application LudIQ est responsable du traitement de vos données au sens du Règlement général sur la protection des données (RGPD).
 
 > 📋 **Informations sur l'éditeur :**
 > * **Éditeur :** GODINEAU Savinien
@@ -37,127 +37,122 @@ Pour toute question relative à la présente politique ou à la gestion de vos d
 
 ## 3. Données concernées
 
-LudIQ agit comme un compagnon de jeu de table. Pour fonctionner, l'application traite des catégories de données bien précises, dont la quasi-totalité ne quitte jamais votre terminal.
+LudIQ agit comme un compagnon de jeu de table. Pour fonctionner, l'application traite des catégories de données bien précises, dont la très grande majorité ne quitte jamais votre terminal.
 
 ### 3.1. Données stockées localement sur votre appareil
-Les données suivantes sont enregistrées dans l'espace de stockage privé et cloisonné de l'application. Elles ne sont ni transmises à l'éditeur, ni accessibles par ce dernier ou par un tiers :
-* **Votre collection :** Jeux possédés, extensions, listes d'envies, favoris et filtres personnalisés.
-* **Vos parties :** Sessions de jeu enregistrées, dates, durées, configurations de jeu et joueurs présents.
-* **Vos scores et statistiques :** Résultats détaillés par joueur, historique des scores et bilans graphiques.
-* **Profils des joueurs :** Noms ou pseudonymes saisis manuellement, ainsi que les photos ou avatars locaux associés.
-* **Vos préférences :** Langue de l'interface, paramètres d'affichage et mémoire locale de recherche de l'onglet Explorer.
+Les données suivantes sont enregistrées exclusivement dans l'espace de stockage privé et cloisonné de l'application. Elles ne sont ni transmises à l'éditeur, ni accessibles par ce dernier ou par un tiers :
+* **Votre collection de jeux :** Jeux possédés, autres jeux, liste d'envies, extensions et favoris.
+* **Vos parties :** Sessions de jeu enregistrées, dates, durées, formats et joueurs présents.
+* **Vos scores et statistiques :** Résultats détaillés par joueur, historique et bilans graphiques.
+* **Profils de joueurs :** Les noms ou pseudonymes que vous saisissez manuellement et les photos ou avatars locaux que vous choisissez pour vos profils.
+* **Vos préférences :** Langue de l'interface, réglages d'affichage, filtres et mémoire de l'onglet Explorer.
 
-✏️ **Contrôle utilisateur :** Vous conservez le contrôle absolu de ces données. Vous pouvez les modifier ou les supprimer à tout moment directement depuis l'application, ou les exporter vous-même au format **JSON**. La désinstallation de l'application entraîne la suppression définitive et irréversible de toutes ces données de votre appareil.
+✏️ **Contrôle utilisateur :** Vous conservez le contrôle total de ces données. Vous pouvez les modifier ou les supprimer à tout moment directement dans l'application, ou les exporter vous-même au format **JSON**. La désinstallation de l'application efface définitivement et irréversible de toutes ces données de votre appareil.
 
 ### 3.2. Données échangées avec des services tiers
-Certaines fonctionnalités connectées requièrent des appels réseau à des bases de données en ligne. Le détail rigoureux de ces échanges figure à l'**Article 5**.
+Certaines fonctionnalités connectées nécessitent une communication avec des services en ligne. Le détail rigoureux de ces échanges figure à l'**Article 5**.
 
 ---
 
 ## 4. Permissions de l'appareil
 
-L'application peut solliciter l'accès à certaines fonctionnalités de votre système. Cet accès est systématiquement déclenché par une action explicite de votre part et reste strictement cantonné à sa finalité.
+L'application peut vous demander l'accès à certaines fonctions de votre système. Cet accès est systématiquement déclenché par une action explicite de votre part et reste strictement cantonné à sa finalité.
 
 | Permission | Usage dans LudIQ | Transmission des données |
 | :--- | :--- | :--- |
-| **Photos & Appareil photo** | Permet de sélectionner un avatar pour un profil joueur ou pour vous-même. | L'image choisie est copiée localement dans l'espace privé de l'application. **Aucune photo n'est envoyée sur un serveur.** |
-| **Enregistrement Galerie / Stockage** | Permet de sauvegarder dans votre galerie une image de bilan de fin de partie ou de statistiques à partager. | L'image est générée localement sur l'appareil et enregistrée uniquement à votre demande expresse. |
-| **Accès aux fichiers / Stockage** | Permet d'importer ou d'exporter votre fichier de sauvegarde au format JSON via le système de partage natif. | Vous sélectionnez vous-même le fichier cible. L'application n'explore pas le reste de vos documents. |
+| **Photos & Appareil photo** | Permet de choisir un avatar pour un joueur ou pour votre profil. | L'image sélectionnée est copiée localement dans l'application. **Aucune photo n'est transmise à un serveur.** |
+| **Enregistrement Galerie** | Permet de sauvegarder dans votre stockage une image de bilan partageable que vous générez vous-même. | L'image est créée localement sur le téléphone et enregistrée uniquement à votre demande expresse. |
+| **Accès aux fichiers** | Permet d'exporter ou d'importer votre sauvegarde au format JSON via la fonction de partage native. | Vous choisissez vous-même le fichier concerné. L'application n'explore pas le reste de vos documents. |
 
-*Vous pouvez refuser ou révoquer ces permissions à tout moment dans les Réglages du système d'exploitation de votre téléphone. Le cas échéant, les fonctionnalités associées seront simplement indisponibles.*
+*Vous pouvez refuser ou révoquer ces permissions à tout moment dans les réglages de votre système d'exploitation. Le cas échéant, les fonctionnalités correspondantes seront simplement indisponibles.*
 
 ---
 
 ## 5. Services tiers et destinataires des données
 
-LudIQ s'appuie sur un écosystème d'infrastructure minimal pour enrichir l'expérience utilisateur. Ce tableau détaille la nature des flux, leur destinataire et leur finalité.
+L'application s'appuie sur un nombre limité d'infrastructures pour fonctionner. Ce tableau détaille, pour chacune d'elles, la nature des flux, leur destinataire et leur finalité.
 
-| Service | Données transmises | Finalité | Prestataire et Politique |
+| Service / Prestataire | Données transmises | Finalité des flux | Prestataire & Politique |
 | :--- | :--- | :--- | :--- |
-| **BoardGameGeek** | Termes de recherche et identifiants des jeux consultés. *(Aucun nom, profil ou statistique n'est envoyé)*. | Récupération en temps réel des fiches de jeux publiques (noms, images, notes, descriptions, classements). | BoardGameGeek<br>🔗 [Politique de confidentialité](https://boardgamegeek.com/privacy) |
-| **Catalogue de jeux** | Requêtes techniques de consultation de données publiques (classement BGG). | Alimenter de manière fluide le catalogue de suggestions de l'onglet "Explorer". | Supabase & Cloudflare Workers<br>*(Zéro donnée personnelle)* |
-| **Service de traduction** | Texte brut des descriptions de jeux (en anglais). *(Actif uniquement si l'app est en français)*. | Traduction automatique instantanée des fiches de jeux en français pour le confort de lecture. | DeepL API<br>🔗 [Politique de confidentialité](https://www.deepl.com/privacy) |
-| **Hébergement technique** | Métadonnées réseau standard (telles que l'adresse IP de connexion) indispensables au routage. | Routage sécurisé des requêtes de l'application et mise en cache des données publiques de jeux pour optimiser les performances. | Cloudflare Workers<br>🔗 [Politique de confidentialité](https://www.cloudflare.com/privacypolicy/) |
+| **BoardGameGeek (API)** | Termes de recherche et identifiants des jeux consultés. *(Zéro donnée utilisateur)*. Requête via proxy Cloudflare. | Récupérer en temps réel les fiches techniques des jeux (nom, note, description, classements). | BoardGameGeek<br>🔗 [Politique de confidentialité](https://boardgamegeek.com/privacy) |
+| **Réseau d'images BGG** | Requête HTTP directe vers le domaine `geekdo-images.com`. Expose votre **adresse IP** et les visuels consultés. | Télécharger en direct sur votre écran les couvertures et vignettes des jeux de société. | Geekdo, LLC (États-Unis)<br>*(Flux direct sans passer par le proxy de l'éditeur)* |
+| **Catalogue de jeux** | Requêtes de lecture seule sur les classements publics (top 10000 BGG). *(Zéro donnée utilisateur)*. | Alimenter la fonctionnalité de découverte et de suggestions au sein de l'onglet **Explorer**. | Opéré par l'éditeur<br>*(Base hébergée chez Supabase, requêtes via Cloudflare)* |
+| **Service de traduction** | Texte brut de la description du jeu (en anglais). *(Zéro donnée utilisateur. Flux inactif si l'app est en anglais)*. | Traduction automatique instantanée des descriptions de fiches de jeux en français. | DeepL API<br>🔗 [Politique de confidentialité](https://www.deepl.com/privacy) |
+| **Hébergement technique** | Métadonnées de connexion standard (adresse IP notamment) nécessaires à l'acheminement du trafic. | Routage sécurisé (HTTPS) des requêtes de l'application et mise en cache de performance des données publiques. | Cloudflare Workers<br>🔗 [Politique de confidentialité](https://www.cloudflare.com/privacypolicy/) |
 
 ### 🔒 Garantie d'absence de pistage
-Pour être parfaitement complet, LudIQ **n'utilise aucun** :
-* Outil de mesure d'audience ou d'analyse comportementale.
-* Outil ou régie publicitaire.
-* Traceur ou outil tiers de rapport de plantage (ex: Firebase Crashlytics).
-* Service de la suite Google Firebase.
-
-La présente version est intégralement gratuite, sans publicité et ne propose aucun achat intégré.
+Pour être parfaitement complet, l'application LudIQ n'utilise aucun outil de mesure d'audience, aucun outil de pistage comportemental, aucun outil tiers de rapport de plantage (comme Firebase Crashlytics), aucun service de la suite Google Firebase, et aucune publicité.
 
 ### 5.5. Protection assurée par les tiers
-Nous sélectionnons exclusivement des prestataires d'infrastructure réputés offrant de solides garanties en matière de sécurité des données. Lorsque des flux techniques transitent par ces intermédiaires, ces derniers sont contractuellement tenus d'assurer un niveau de protection rigoureux et conforme à la législation européenne.
+Nous ne faisons appel qu'à des prestataires présentant des garanties appropriées en matière de protection des données. Lorsque des informations techniques ou des métadonnées de connexion transitent vers l'un de ces tiers, celui-ci est tenu de leur assurer un niveau de protection équivalent à celui décrit dans la présente politique et conforme aux obligations légales applicables.
 
 ---
 
 ## 6. Bases légales des traitements
 
-Conformément à l'**Article 6 du RGPD**, les traitements mis en œuvre reposent sur les fondements juridiques suivants :
-1. **Exécution d'un contrat / Fourniture du service :** Le stockage local de vos collections, scores et profils est strictement nécessaire pour vous délivrer les fonctionnalités de l'application que vous choisissez d'utiliser.
-2. **Intérêt légitime :** L'interrogation du catalogue public de jeux et la traduction automatisée répondent à notre intérêt légitime de vous proposer une application riche, fonctionnelle et localisée en langue française.
-3. **Consentement :** Les accès aux fonctionnalités matérielles (photos, appareil photo, stockage) reposent exclusivement sur votre consentement, que vous accordez ou retirez via les invites de permissions natives de votre système.
+Conformément à l'**Article 6 du RGPD**, les traitements mis en œuvre reposent sur les bases légales suivantes :
+1. **Exécution du service / Contrat :** Le stockage local de votre collection, de vos parties, de vos profils de joueurs et de vos préférences est nécessaire pour vous fournir le service et les fonctionnalités que vous activez.
+2. **Intérêt légitime :** L'affichage des informations de jeux (incluant le téléchargement direct des images), l'interrogation du catalogue Explorer et la traduction automatisée répondent à notre intérêt légitime à vous offrir un confort de lecture et une expérience fluide, enrichie et localisée.
+3. **Consentement :** L'accès aux fonctionnalités matérielles de l'appareil (photos, appareil photo, galerie) repose exclusivement sur votre consentement, donné via la demande de permission native du système lors de l'action que vous initiez.
 
 ---
 
 ## 7. Transferts hors de l'Union européenne
 
-En raison de la nature des prestataires d'infrastructure retenus, certaines métadonnées de routage technique (comme l'adresse IP) peuvent être traitées en dehors de l'Espace Économique Européen (EEE), notamment par la société **Cloudflare, Inc.** aux États-Unis.
+Selon les prestataires d'infrastructure utilisés, certaines des données de connexion techniques décrites à l'Article 5 (notamment l'adresse IP et les requêtes techniques de routage) sont traitées en dehors de l'Espace économique européen, en particulier aux États-Unis par les sociétés **Cloudflare, Inc.** et **Geekdo, LLC**.
 
-Ces flux sont strictement encadrés par des garanties juridiques appropriées, incluant les **Clauses Contractuelles Types (CCT)** validées par la Commission européenne, garantissant un niveau de sécurité équivalent. Aucune donnée d'identité n'est concernée.
+Ces transferts portent exclusivement sur ces métadonnées techniques indispensables à l'acheminement des flux, à l'exclusion stricte de toute donnée saisie par l'utilisateur. Ils sont rigoureusement encadrés par des garanties appropriées au sens du RGPD, notamment les **Clauses Contractuelles Types (CCT)** adoptées par la Commission européenne ainsi que les mécanismes de conformité propres à ces prestataires.
 
 ---
 
 ## 8. Durée de conservation
 
-* **Données locales :** L'ensemble des données décrites à l'Article 3.1 demeure sur votre terminal tant que l'application reste installée ou que vous ne décidez pas de les purger manuellement. Elles sont effacées instantanément lors de la désinstallation de LudIQ.
-* **Requêtes réseau :** Les flux techniques adressés aux serveurs intermédiaires et aux API sont éphémères, anonymes et dissociés de tout profil utilisateur. Les caches de fiches de jeux publiques sont temporaires.
+* **Données locales :** Les données décrites à l'Article 3.1 restent stockées sur votre appareil tant que vous ne les supprimez pas manuellement et que l'application reste installée. Elles sont définitivement effacées lors de la désinstallation de LudIQ.
+* **Requêtes réseau :** Les requêtes techniques adressées à BoardGameGeek, au réseau d'images, au catalogue, au service de traduction et aux proxies intermédiaires sont éphémères et ne sont rattachées à aucun profil utilisateur. Les caches de données publiques relatives aux jeux sont temporaires.
 
 ---
 
 ## 9. Vos droits
 
-En vertu du RGPD, vous disposez de droits d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité sur vos données personnelles.
+Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité concernant vos données.
 
-L'architecture locale ("local-first") de LudIQ vous permet d'**exercer l'immense majorité de ces droits de manière totalement autonome**, sans notre intervention :
-* **Accès & Portability :** Vous pouvez visualiser l'intégralité de vos informations dans les écrans de l'application et générer un export complet au format JSON quand bon vous semble.
-* **Rectification :** Vous pouvez modifier à la volée vos fiches de jeux, vos scores, l'historique des parties et les fiches des joueurs.
-* **Effacement :** Vous pouvez supprimer un historique, réinitialiser l'onglet Explorer ou simplement désinstaller l'application pour effacer l'intégralité des données en un clic.
+En raison de l'architecture décentralisée ("local-first") de LudIQ, **vous pouvez exercer l'immense majorité de ces droits de manière totalement autonome**, sans notre intervention :
+* **Accès & Portabilité :** Vous pouvez consulter toutes vos données directement dans les écrans de l'application et les exporter au format JSON à tout moment.
+* **Rectification :** Vous pouvez modifier manuellement vos jeux, vos sessions de parties, vos scores et vos profils de joueurs directement dans les réglages.
+* **Effacement :** Vous pouvez supprimer un élément un par un, réinitialiser la mémoire locale de l'onglet Explorer, ou désinstaller l'application pour purger instantanément l'intégralité des enregistrements de votre terminal.
 
-Pour retirer un consentement lié aux permissions, rendez-vous dans les réglages système de votre téléphone. Pour toute demande d'exercice de droit nécessitant une action de notre part, contactez-nous à **Ludiq.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
+Vous pouvez à tout moment **retirer un consentement** que vous avez précédemment accordé, par exemple en révoquant une permission dans les réglages système de votre appareil, ce qui rendra simplement les fonctionnalités associées indisponibles. Pour toute demande d'exercice de droit nécessitant une action de notre part, vous pouvez nous contacter à l'adresse **Ludiq.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
 
-Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente. En France, il s'agit de la **CNIL** (Commission Nationale de l'Informatique et des Libertés) sur son site [www.cnil.fr](https://www.cnil.fr).
+Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente. En France, il s'agit de la **CNIL** (Commission nationale de l'informatique et des libertés) via son site [www.cnil.fr](https://www.cnil.fr).
 
 ---
 
 ## 10. Sécurité
 
-Vos données locales bénéficient de la sécurité native du système d'exploitation de votre smartphone (cloisonnement des applications / bac à sable, et chiffrement matériel de l'appareil s'il est activé). Tous les flux réseau documentés à l'Article 5 font l'objet de connexions chiffrées de bout en bout (**HTTPS**).
+Vos données locales bénéficient des mécanismes de sécurité natifs du système d'exploitation de votre appareil, notamment le cloisonnement des applications (sandbox) et, si vous l'avez activé, le chiffrement matériel de l'appareil. Les échanges réseau décrits à l'Article 5 s'effectuent exclusivement au moyen de connexions chiffrées de bout en bout (**HTTPS**).
 
-*Conseil : Aucun système n'étant infaillible, nous vous recommandons vivement de sécuriser l'accès à votre terminal (code, schéma ou biométrie) et d'effectuer des exports JSON réguliers pour prémunir vos statistiques de toute perte matérielle.*
+*Conseil : Aucun système n'étant infaillible, nous vous recommandons vivement de sécuriser l'accès à votre téléphone (code de verrouillage, schéma ou authentification biométrique) et d'effectuer des exports JSON réguliers si vos statistiques vous sont précieuses.*
 
 ---
 
 ## 11. Protection des mineurs
 
-LudIQ est une application tout public, mais elle ne s'adresse pas spécifiquement aux enfants et nous ne collectons sciemment aucune donnée de mineurs. Si vous suspectez qu'un mineur nous a transmis des informations par e-mail, contactez-nous pour que nous les supprimions.
+LudIQ est une application tout public. Elle n'est pas destinée spécifiquement aux enfants et ne collectera jamais sciemment de données personnelles les concernant. Si vous estimez qu'un enfant nous a communiqué des données par e-mail, nous vous invitons à nous contacter pour que nous procédions à leur suppression.
 
-Les profils de joueurs créés localement peuvent correspondre à des enfants (membres de la famille, amis). Ces profils **restent confinés à votre téléphone**. En les saisissant, vous certifiez disposer du droit ou de l'autorité parentale nécessaire pour renseigner ces pseudonymes locaux.
+Les noms et avatars de joueurs que vous saisissez peuvent concerner des tiers (famille, amis, y compris des enfants). Ces informations **demeurent uniquement sur votre appareil**. En les saisissant, vous vous engagez à n'enregistrer que des informations que vous êtes légalement en droit de renseigner localement.
 
 ---
 
 ## 12. Modifications de la politique
 
-Cette politique de confidentialité est susceptible d'évoluer pour refléter les futures mises à jour de l'application ou des obligations légales (par exemple, si une future version intègre des fonctionnalités premium ou des achats intégrés). Toute modification majeure sera signalée directement dans l'interface de l'application ou sur sa page d'hébergement web en amont de son application. La date de dernière mise à jour en tête de page fait foi.
+La présente politique de confidentialité peut être mise à jour afin de refléter une évolution de l'application ou des réglementations applicables. Toute évolution de cette nature fera l'objet d'une révision du présent document en amont de son entrée en vigueur. En cas de modification importante, nous l'indiquerons au sein de l'application ou sur la page d'hébergement web du document. La date de dernière mise à jour figurant en tête fait foi.
 
 ---
 
 ## 13. Contact
 
-Pour toute question ou demande relative à votre confidentialité :
+Pour toute question relative à la présente politique ou à vos données :
 
-* **E-mail :** Ludiq.support@gmail.com
+* **Adresse e-mail :** Ludiq.support@gmail.com
 * **Éditeur :** GODINEAU Savinien
 * **URL du document :** https://ludiq-support.github.io/LudIQ-Privacy-Policy/
