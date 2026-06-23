@@ -1,17 +1,17 @@
-# Politique de Confidentialité — LudIQ
+# Politique de Confidentialité — Dicea
 
 [🇬🇧 English Version](README.md)
 
 | Métadonnées | Valeur |
 | :--- | :--- |
-| **Application** | LudIQ |
+| **Application** | Dicea |
 | **Dernière mise à jour** | 20 juin 2026 |
 
 ---
 
 ## 1. Présentation
 
-**LudIQ** est une application mobile gratuite destinée aux joueurs de jeux de société. Elle a été conçue pour respecter la vie privée de ses utilisateurs et fonctionne principalement hors ligne.
+**Dicea** est une application mobile gratuite destinée aux joueurs de jeux de société. Elle a été conçue pour respecter la vie privée de ses utilisateurs et fonctionne principalement hors ligne.
 
 * **Stockage local exclusif :** Vos données personnelles restent sur votre appareil. Votre collection de jeux, vos parties et vos scores, vos profils de joueurs (noms et photos) ainsi que vos préférences sont enregistrés localement, dans la mémoire de votre téléphone. Aucun serveur ne conserve de copie de ces informations.
 * **Sans compte ni publicité :** L'utilisation de l'application ne nécessite ni création de compte, ni adresse e-mail. L'application ne contient aucune publicité, aucun traceur publicitaire et ne procède à aucune revente de données.
@@ -23,13 +23,13 @@
 
 ## 2. Responsable du traitement
 
-L'éditeur de l'application LudIQ est responsable du traitement de vos données au sens du Règlement général sur la protection des données (RGPD).
+L'éditeur de l'application Dicea est responsable du traitement de vos données au sens du Règlement général sur la protection des données (RGPD).
 
 > 📋 **Informations sur l'éditeur :**
 > * **Éditeur :** GODINEAU Savinien
 > * **Statut :** Développeur individuel
 > * **Numéro d'identification :** Non applicable
-> * **Adresse de contact :** Ludiq.support@gmail.com
+> * **Adresse de contact :** Dicea.support@gmail.com
 
 Pour toute question relative à la présente politique ou à la gestion de vos données, vous pouvez nous écrire directement à l'adresse e-mail indiquée ci-dessus.
 
@@ -37,7 +37,7 @@ Pour toute question relative à la présente politique ou à la gestion de vos d
 
 ## 3. Données concernées
 
-LudIQ agit comme un compagnon de jeu de table. Pour fonctionner, l'application traite des catégories de données bien précises, dont la très grande majorité ne quitte jamais votre terminal.
+Dicea agit comme un compagnon de jeu de table. Pour fonctionner, l'application traite des catégories de données bien précises, dont la très grande majorité ne quitte jamais votre terminal.
 
 ### 3.1. Données stockées localement sur votre appareil
 Les données suivantes sont enregistrées exclusivement dans l'espace de stockage privé et cloisonné de l'application. Elles ne sont ni transmises à l'éditeur, ni accessibles par ce dernier ou par un tiers :
@@ -58,7 +58,7 @@ Certaines fonctionnalités connectées nécessitent une communication avec des s
 
 L'application peut vous demander l'accès à certaines fonctions de votre système. Cet accès est systématiquement déclenché par une action explicite de votre part et reste strictement cantonné à sa finalité.
 
-| Permission | Usage dans LudIQ | Transmission des données |
+| Permission | Usage dans Dicea | Transmission des données |
 | :--- | :--- | :--- |
 | **Photos & Appareil photo** | Permet de choisir un avatar pour un joueur ou pour votre profil. | L'image sélectionnée est copiée localement dans l'application. **Aucune photo n'est transmise à un serveur.** |
 | **Enregistrement Galerie** | Permet de sauvegarder dans votre stockage une image de bilan partageable que vous générez vous-même. | L'image est créée localement sur le téléphone et enregistrée uniquement à votre demande expresse. |
@@ -81,7 +81,7 @@ L'application s'appuie sur un nombre limité d'infrastructures pour fonctionner.
 | **Hébergement technique** | Métadonnées de connexion standard (adresse IP notamment) nécessaires à l'acheminement du trafic. | Routage sécurisé (HTTPS) des requêtes de l'application et mise en cache de performance des données publiques. | Cloudflare Workers<br>🔗 [Politique de confidentialité](https://www.cloudflare.com/privacypolicy/) |
 
 ### 🔒 Garantie d'absence de pistage
-Pour être parfaitement complet, l'application LudIQ n'utilise aucun outil de mesure d'audience, aucun outil de pistage comportemental, aucun outil tiers de rapport de plantage (comme Firebase Crashlytics), aucun service de la suite Google Firebase, et aucune publicité.
+Pour être parfaitement complet, l'application Dicea n'utilise aucun outil de mesure d'audience, aucun outil de pistage comportemental, aucun outil tiers de rapport de plantage (comme Firebase Crashlytics), aucun service de la suite Google Firebase, et aucune publicité.
 
 ### 5.5. Protection assurée par les tiers
 Nous ne faisons appel qu'à des prestataires présentant des garanties appropriées en matière de protection des données. Lorsque des informations techniques ou des métadonnées de connexion transitent vers l'un de ces tiers, celui-ci est tenu de leur assurer un niveau de protection équivalent à celui décrit dans la présente politique et conforme aux obligations légales applicables.
@@ -107,7 +107,7 @@ Ces transferts portent exclusivement sur ces métadonnées techniques indispensa
 
 ## 8. Durée de conservation
 
-* **Données locales :** Les données décrites à l'Article 3.1 restent stockées sur votre appareil tant que vous ne les supprimez pas manuellement et que l'application reste installée. Elles sont définitivement effacées lors de la désinstallation de LudIQ.
+* **Données locales :** Les données décrites à l'Article 3.1 restent stockées sur votre appareil tant que vous ne les supprimez pas manuellement et que l'application reste installée. Elles sont définitivement effacées lors de la désinstallation de Dicea.
 * **Requêtes réseau :** Les requêtes techniques adressées à BoardGameGeek, au réseau d'images, au catalogue, au service de traduction et aux proxies intermédiaires sont éphémères et ne sont rattachées à aucun profil utilisateur. Les caches de données publiques relatives aux jeux sont temporaires.
 
 ---
@@ -116,12 +116,12 @@ Ces transferts portent exclusivement sur ces métadonnées techniques indispensa
 
 Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité concernant vos données.
 
-En raison de l'architecture décentralisée ("local-first") de LudIQ, **vous pouvez exercer l'immense majorité de ces droits de manière totalement autonome**, sans notre intervention :
+En raison de l'architecture décentralisée ("local-first") de Dicea, **vous pouvez exercer l'immense majorité de ces droits de manière totalement autonome**, sans notre intervention :
 * **Accès & Portabilité :** Vous pouvez consulter toutes vos données directement dans les écrans de l'application et les exporter au format JSON à tout moment.
 * **Rectification :** Vous pouvez modifier manuellement vos jeux, vos sessions de parties, vos scores et vos profils de joueurs directement dans les réglages.
 * **Effacement :** Vous pouvez supprimer un élément un par un, réinitialiser la mémoire locale de l'onglet Explorer, ou désinstaller l'application pour purger instantanément l'intégralité des enregistrements de votre terminal.
 
-Vous pouvez à tout moment **retirer un consentement** que vous avez précédemment accordé, par exemple en révoquant une permission dans les réglages système de votre appareil, ce qui rendra simplement les fonctionnalités associées indisponibles. Pour toute demande d'exercice de droit nécessitant une action de notre part, vous pouvez nous contacter à l'adresse **Ludiq.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
+Vous pouvez à tout moment **retirer un consentement** que vous avez précédemment accordé, par exemple en révoquant une permission dans les réglages système de votre appareil, ce qui rendra simplement les fonctionnalités associées indisponibles. Pour toute demande d'exercice de droit nécessitant une action de notre part, vous pouvez nous contacter à l'adresse **Dicea.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
 
 Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente. En France, il s'agit de la **CNIL** (Commission nationale de l'informatique et des libertés) via son site [www.cnil.fr](https://www.cnil.fr).
 
@@ -137,7 +137,7 @@ Vos données locales bénéficient des mécanismes de sécurité natifs du syst�
 
 ## 11. Protection des mineurs
 
-LudIQ est une application tout public. Elle n'est pas destinée spécifiquement aux enfants et ne collectera jamais sciemment de données personnelles les concernant. Si vous estimez qu'un enfant nous a communiqué des données par e-mail, nous vous invitons à nous contacter pour que nous procédions à leur suppression.
+Dicea est une application tout public. Elle n'est pas destinée spécifiquement aux enfants et ne collectera jamais sciemment de données personnelles les concernant. Si vous estimez qu'un enfant nous a communiqué des données par e-mail, nous vous invitons à nous contacter pour que nous procédions à leur suppression.
 
 Les noms et avatars de joueurs que vous saisissez peuvent concerner des tiers (famille, amis, y compris des enfants). Ces informations **demeurent uniquement sur votre appareil**. En les saisissant, vous vous engagez à n'enregistrer que des informations que vous êtes légalement en droit de renseigner localement.
 
@@ -153,6 +153,6 @@ La présente politique de confidentialité peut être mise à jour afin de refl�
 
 Pour toute question relative à la présente politique ou à vos données :
 
-* **Adresse e-mail :** Ludiq.support@gmail.com
+* **Adresse e-mail :** Dicea.support@gmail.com
 * **Éditeur :** GODINEAU Savinien
-* **URL du document :** https://ludiq-support.github.io/LudIQ-Privacy-Policy/
+* **URL du document :** https://Dicea-support.github.io/Dicea-Privacy-Policy/
