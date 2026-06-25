@@ -155,4 +155,4 @@ For any inquiries regarding your privacy or this policy, please contact:
 
 * **Email:** Ludiq.support@gmail.com
 * **Publisher:** GODINEAU Savinien
-* **Policy URL:** https://Dicea-support.github.io/Dicea-Privacy-Policy/
+* **Policy URL:** https://ludiq-support.github.io/Dicea-Privacy-Policy/
